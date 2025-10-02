@@ -20,7 +20,7 @@ I am _Hari Kapadia_, a Master of Science in Information Technology graduate from
 - [X](https://x.com/harikapadia999) 
 - [LinkedIn](https://www.linkedin.com/in/hari-kapadia-084813217/)
 - [Leetcode](https://leetcode.com/u/harikapadia111/)
-- [Codeforces)(https://codeforces.com/profile/harikapadia999)
+- [Codeforces](https://codeforces.com/profile/harikapadia999)
 - [GFG](https://www.geeksforgeeks.org/user/harikapadia/)
 - [Hackerrank](https://www.hackerrank.com/profile/harikapadia111)
 
@@ -28,28 +28,10 @@ I am _Hari Kapadia_, a Master of Science in Information Technology graduate from
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
 
-<!-- <img src="stats.gif" width="90%"><br/><br/> -->
 
 ***
 
 
 
-<!--
-**garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
